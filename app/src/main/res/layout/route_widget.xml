@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/routeWidgetRoot"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0F172A"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="6dp">
+
+    <TextView
+        android:id="@+id/routeWidgetLabel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:maxLines="1"
+        android:text="@string/widget_label_default"
+        android:textColor="#FFFFFF"
+        android:textSize="13sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/routeWidgetRoute"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:maxLines="1"
+        android:text="@string/destination_default"
+        android:textColor="#CBD5E1"
+        android:textSize="10sp" />
+</LinearLayout>

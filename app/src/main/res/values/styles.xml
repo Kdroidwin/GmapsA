@@ -1,0 +1,9 @@
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#1976D2</item>
+    </style>
+
+    <style name="AppTheme.NoDisplay" parent="@android:style/Theme.NoDisplay" />
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Gmaps A</string>
+    <string name="widget_name">Gmaps A 経路</string>
+    <string name="widget_label_default">経路</string>
+    <string name="origin_default">東京駅</string>
+    <string name="destination_default">大阪駅</string>
+    <string name="config_title">Gmaps A</string>
+    <string name="config_label">表示名</string>
+    <string name="config_origin">出発地</string>
+    <string name="config_destination">目的地</string>
+    <string name="config_save">保存</string>
+    <string name="official_not_found">公式 GMaps WV が見つかりません</string>
+</resources>
