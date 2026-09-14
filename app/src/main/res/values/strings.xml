@@ -4,10 +4,23 @@
     <string name="widget_label_default">経路</string>
     <string name="origin_default">東京駅</string>
     <string name="destination_default">大阪駅</string>
-    <string name="config_title">Gmaps A</string>
+    <string name="config_title">ウィジェット設定</string>
     <string name="config_label">表示名</string>
     <string name="config_origin">出発地</string>
     <string name="config_destination">目的地</string>
     <string name="config_save">保存</string>
+    <string name="config_color">ウィジェットの色</string>
+    <string name="config_opacity">背景の透明度</string>
+    <string name="settings_title">Gmaps A 設定</string>
+    <string name="settings_description">ホーム画面を公開する場合などに、経路の出発地・目的地を非表示にできます。</string>
+    <string name="settings_hide_route">経路（出発地 → 目的地）を非表示にする</string>
     <string name="official_not_found">公式 GMaps WV が見つかりません</string>
+    <string-array name="widget_color_names">
+        <item>ネイビー</item><item>ブラック</item><item>ホワイト</item><item>ブルー</item>
+        <item>グリーン</item><item>オレンジ</item><item>レッド</item><item>パープル</item>
+    </string-array>
+    <string-array name="widget_color_values">
+        <item>#0F172A</item><item>#111827</item><item>#FFFFFF</item><item>#1D4ED8</item>
+        <item>#15803D</item><item>#C2410C</item><item>#B91C1C</item><item>#6D28D9</item>
+    </string-array>
 </resources>
